@@ -10,6 +10,10 @@ public class Application {
 		SpringApplication.run(Application.class, args);
                 char gender='M';
                 int age=20;
+		boolean isSaved=false;
+		boolean isUpdated=true;
+		String name="ashokit";
+		double pric=123.09;
 	}
 
 }
