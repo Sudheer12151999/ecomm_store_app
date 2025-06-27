@@ -14,6 +14,8 @@ public class Application {
 		boolean isUpdated=true;
 		String name="ashokit";
 		double pric=123.09;
+		boolean isSaved=false;
+		boolean isUpdated=true;
 	}
 
 }
